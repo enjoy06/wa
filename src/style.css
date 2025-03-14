@@ -1,0 +1,25 @@
+bg-primary {
+    background-color: #075e54 !important;
+    max-width: 400px;
+}
+
+.w-10 {
+    width: 20px;
+}
+
+.activeNav {
+    color: #fff !important;
+    border-bottom: 2px solid #fff;
+}
+
+.textInactive {
+    color: #909195;
+}
+
+.textInactive:focus {
+    color: #909195 !important;
+}
+
+.group:hover {
+    opacity: 0.7;
+}
